@@ -93,6 +93,16 @@
       "singlePrice": 60,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "287ovyae4",
+      "category": "Market",
+      "itemName": "ሻይ ቅጠል",
+      "measurement": "Dozen",
+      "amount": 1,
+      "singlePrice": 400,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
