@@ -155,6 +155,18 @@
       "endDate": "2018-04-01",
       "description": "",
       "amount": 100
+    },
+    {
+      "id": "rd6brtmx9",
+      "firstName": "ሙሴ",
+      "lastName": "ምድር",
+      "rank": "Corporal",
+      "command": "Ground Force",
+      "type": "Half Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-05",
+      "description": "",
+      "amount": 500
     }
   ],
   "incomeItems": [],
