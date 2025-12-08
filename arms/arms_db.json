@@ -133,6 +133,16 @@
       "singlePrice": 154,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "lnjy70961",
+      "category": "Market",
+      "itemName": "አጃክስ",
+      "measurement": "Count",
+      "amount": 30,
+      "singlePrice": 10,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
