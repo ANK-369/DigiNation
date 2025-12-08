@@ -167,6 +167,18 @@
       "endDate": "2018-04-05",
       "description": "",
       "amount": 500
+    },
+    {
+      "id": "vdm2msphf",
+      "firstName": "ተፈሪ",
+      "lastName": "ካሊካ",
+      "rank": "Second Lieutenant",
+      "command": "Air Force",
+      "type": "Full Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 3000
     }
   ],
   "incomeItems": [],
