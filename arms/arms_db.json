@@ -179,6 +179,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 3000
+    },
+    {
+      "id": "3i2rhlk6g",
+      "firstName": "ሰለሞን",
+      "lastName": "ሻለቃ",
+      "rank": "Major",
+      "command": "Air Force",
+      "type": "Full Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 3000
     }
   ],
   "incomeItems": [],
