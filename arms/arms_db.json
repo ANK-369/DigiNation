@@ -83,6 +83,16 @@
       "singlePrice": 25,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "qxv2bgcq7",
+      "category": "Market",
+      "itemName": "ሻይ ቅመም",
+      "measurement": "Count",
+      "amount": 2,
+      "singlePrice": 60,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
