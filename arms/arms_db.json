@@ -1,5 +1,18 @@
 {
-  "manpower": [],
+  "manpower": [
+    {
+      "id": "tyjmprnqp",
+      "firstName": "ታምራት",
+      "lastName": "ወንድሙ",
+      "rank": "Sergeant",
+      "command": "Air Force",
+      "type": "Payroll",
+      "startDate": "2018-03-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 600
+    }
+  ],
   "incomeItems": [],
   "subsidies": [],
   "transfers": [],
