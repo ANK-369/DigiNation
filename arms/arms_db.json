@@ -107,6 +107,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 600
+    },
+    {
+      "id": "k8mmqijan",
+      "firstName": "አግኝቸው",
+      "lastName": "ከፋለህ",
+      "rank": "Sergeant",
+      "command": "Air Force",
+      "type": "Payroll",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 600
     }
   ],
   "incomeItems": [],
