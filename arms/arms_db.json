@@ -143,6 +143,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 600
+    },
+    {
+      "id": "ut66696nb",
+      "firstName": "አካሉ",
+      "lastName": "ፔንፔ",
+      "rank": "Sergeant",
+      "command": "Ground Force",
+      "type": "Payroll",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-01",
+      "description": "",
+      "amount": 100
     }
   ],
   "incomeItems": [],
