@@ -213,6 +213,16 @@
       "singlePrice": 100,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "9ypetyjii",
+      "category": "Market",
+      "itemName": "ፓስታ",
+      "measurement": "Count",
+      "amount": 10,
+      "singlePrice": 85,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
