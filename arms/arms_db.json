@@ -13,6 +13,16 @@
       "singlePrice": 30,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "7z6c94ysj",
+      "category": "Market",
+      "itemName": "ድንች",
+      "measurement": "Kg",
+      "amount": 28,
+      "singlePrice": 33.333,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
