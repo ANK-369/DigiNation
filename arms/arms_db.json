@@ -83,6 +83,30 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 600
+    },
+    {
+      "id": "5ciu21aag",
+      "firstName": "ቃላብ",
+      "lastName": "ንጉሴ",
+      "rank": "Corporal",
+      "command": "Air Force",
+      "type": "Payroll",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 600
+    },
+    {
+      "id": "sqo84clls",
+      "firstName": "ዘሪሁን",
+      "lastName": "ጌታነህ",
+      "rank": "Sergeant",
+      "command": "Air Force",
+      "type": "Payroll",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 600
     }
   ],
   "incomeItems": [],
