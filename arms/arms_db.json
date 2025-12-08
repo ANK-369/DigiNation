@@ -163,6 +163,16 @@
       "singlePrice": 550,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "rwcvrjo1r",
+      "category": "Market",
+      "itemName": "ክኖር",
+      "measurement": "Pack",
+      "amount": 1,
+      "singlePrice": 1040,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
