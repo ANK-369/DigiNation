@@ -59,6 +59,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 600
+    },
+    {
+      "id": "g9ifz7c0y",
+      "firstName": "አብዲ",
+      "lastName": "አብዶ",
+      "rank": "Corporal",
+      "command": "Air Force",
+      "type": "Payroll",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 600
     }
   ],
   "incomeItems": [],
