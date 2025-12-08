@@ -1,0 +1,82 @@
+{
+  "manpower": [],
+  "incomeItems": [],
+  "subsidies": [],
+  "transfers": [],
+  "expenses": [
+    {
+      "id": "34jfka9ob",
+      "category": "Market",
+      "itemName": "ቀይ ሽንኩርት",
+      "measurement": "Kg",
+      "amount": 21,
+      "singlePrice": 30,
+      "description": "",
+      "date": "2018-04-01"
+    }
+  ],
+  "refunds": [],
+  "notes": [],
+  "storeItems": [],
+  "storeOrders": [],
+  "foodProgram": [
+    {
+      "id": "mon",
+      "day": "Monday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "tue",
+      "day": "Tuesday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "wed",
+      "day": "Wednesday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "thu",
+      "day": "Thursday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "fri",
+      "day": "Friday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "sat",
+      "day": "Saturday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "sun",
+      "day": "Sunday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    }
+  ],
+  "programSettings": {
+    "title": "ሳምንታዊ የምግብ ፕሮግራም",
+    "subtitle": "የኢትዮጵያ አየር ኃይል - ሎጅስቲክስ ኮማንድ",
+    "footerLeft": "ያዘጋጀው",
+    "footerRight": "ያጸደቀው"
+  },
+  "foodProgramArchive": [],
+  "mealIngredients": {},
+  "rationHistory": []
+}
