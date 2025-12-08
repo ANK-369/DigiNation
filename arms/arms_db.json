@@ -35,6 +35,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 600
+    },
+    {
+      "id": "q4sq1n49s",
+      "firstName": "አንዱዓለም",
+      "lastName": "ኮሪያ",
+      "rank": "Corporal",
+      "command": "Air Force",
+      "type": "Payroll",
+      "startDate": "2018-03-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 600
     }
   ],
   "incomeItems": [],
