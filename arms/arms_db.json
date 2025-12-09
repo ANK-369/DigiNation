@@ -504,18 +504,7 @@
   ],
   "refunds": [],
   "notes": [],
-  "storeItems": [
-    {
-      "id": "zdgoa5pus",
-      "category": "transfer",
-      "name": "ድንች",
-      "measurement": "Kg",
-      "amount": 16,
-      "singlePrice": 33,
-      "description": "From Tahsas To Tir. ",
-      "date": "2018-04-01"
-    }
-  ],
+  "storeItems": [],
   "storeOrders": [],
   "foodProgram": [
     {
