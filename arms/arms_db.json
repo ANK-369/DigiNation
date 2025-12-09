@@ -131,6 +131,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 3000
+    },
+    {
+      "id": "omwyvvvdv",
+      "firstName": "ገዛኸኝ",
+      "lastName": "ዳዊት",
+      "rank": "Lieutenant",
+      "command": "Air Force",
+      "type": "Full Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 3000
     }
   ],
   "incomeItems": [],
