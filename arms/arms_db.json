@@ -95,6 +95,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 3000
+    },
+    {
+      "id": "oxh9kyuf3",
+      "firstName": "ሰለሞን",
+      "lastName": "አይር",
+      "rank": "NCOs",
+      "command": "Air Force",
+      "type": "Full Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 3000
     }
   ],
   "incomeItems": [],
