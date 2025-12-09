@@ -246,7 +246,64 @@
     "footerLeft": "ያዘጋጀው",
     "footerRight": "ያጸደቀው"
   },
-  "foodProgramArchive": [],
+  "foodProgramArchive": [
+    {
+      "id": "zwzn96ad3",
+      "archivedDate": "2018-03-30",
+      "name": "የተዘጋጀው 2018-03-30",
+      "program": [
+        {
+          "id": "mon",
+          "day": "Monday",
+          "breakfast": "",
+          "lunch": "",
+          "dinner": ""
+        },
+        {
+          "id": "tue",
+          "day": "Tuesday",
+          "breakfast": "",
+          "lunch": "",
+          "dinner": ""
+        },
+        {
+          "id": "wed",
+          "day": "Wednesday",
+          "breakfast": "ፓስታ/መኮሮኒ",
+          "lunch": "ምስር ክክ\nድንች በቀይስር",
+          "dinner": "ሽሮ\nበጥቅል ጎመን"
+        },
+        {
+          "id": "thu",
+          "day": "Thursday",
+          "breakfast": "",
+          "lunch": "",
+          "dinner": ""
+        },
+        {
+          "id": "fri",
+          "day": "Friday",
+          "breakfast": "",
+          "lunch": "",
+          "dinner": ""
+        },
+        {
+          "id": "sat",
+          "day": "Saturday",
+          "breakfast": "",
+          "lunch": "",
+          "dinner": ""
+        },
+        {
+          "id": "sun",
+          "day": "Sunday",
+          "breakfast": "",
+          "lunch": "",
+          "dinner": ""
+        }
+      ]
+    }
+  ],
   "mealIngredients": {},
   "rationHistory": []
 }
