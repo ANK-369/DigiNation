@@ -59,6 +59,18 @@
       "endDate": "2018-04-05",
       "description": "",
       "amount": 500
+    },
+    {
+      "id": "wvg7q8vuo",
+      "firstName": "ሙሉቀን",
+      "lastName": "ታዬ",
+      "rank": "NCOs",
+      "command": "Air Force",
+      "type": "Full Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 3000
     }
   ],
   "incomeItems": [],
