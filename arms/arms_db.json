@@ -35,6 +35,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 3000
+    },
+    {
+      "id": "3ixmmh8av",
+      "firstName": "መሀመድ",
+      "lastName": "ሌኮ",
+      "rank": "Lieutenant Colonel",
+      "command": "Air Force",
+      "type": "Full Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 3000
     }
   ],
   "incomeItems": [],
