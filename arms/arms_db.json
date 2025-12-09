@@ -47,6 +47,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 3000
+    },
+    {
+      "id": "sfmv55txo",
+      "firstName": "ሙሴ",
+      "lastName": "ምድር",
+      "rank": "Corporal",
+      "command": "Air Force",
+      "type": "Half Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-05",
+      "description": "",
+      "amount": 500
     }
   ],
   "incomeItems": [],
