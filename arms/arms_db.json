@@ -143,6 +143,18 @@
       "endDate": "2018-04-30",
       "description": "",
       "amount": 3000
+    },
+    {
+      "id": "oa4hlqxv7",
+      "firstName": "መገርሳ",
+      "lastName": "አይር",
+      "rank": "Captain",
+      "command": "Air Force",
+      "type": "Full Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 3000
     }
   ],
   "incomeItems": [],
