@@ -1,5 +1,18 @@
 {
-  "manpower": [],
+  "manpower": [
+    {
+      "id": "h9pz0kl2v",
+      "firstName": "ተፈራ",
+      "lastName": "ታሪኩ",
+      "rank": "Second Lieutenant",
+      "command": "Air Force",
+      "type": "Full Cash",
+      "startDate": "2018-04-01",
+      "endDate": "2018-04-30",
+      "description": "",
+      "amount": 3000
+    }
+  ],
   "incomeItems": [],
   "subsidies": [],
   "transfers": [],
