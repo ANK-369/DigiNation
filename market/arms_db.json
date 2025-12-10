@@ -373,6 +373,16 @@
       "singlePrice": 100,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "us0c9el77",
+      "category": "Market",
+      "itemName": "እቃ ማጠቢያ ሽቦ",
+      "measurement": "Dozen",
+      "amount": 1,
+      "singlePrice": 130,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
