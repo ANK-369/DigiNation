@@ -183,6 +183,16 @@
       "singlePrice": 190,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "szp1hxv0v",
+      "category": "Market",
+      "itemName": "ድፍን ምስር",
+      "measurement": "Kg",
+      "amount": 3,
+      "singlePrice": 205,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
