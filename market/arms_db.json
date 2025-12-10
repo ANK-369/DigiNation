@@ -243,6 +243,16 @@
       "singlePrice": 30,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "cceut8abo",
+      "category": "Market",
+      "itemName": "እንቁላል ",
+      "measurement": "Count",
+      "amount": 140,
+      "singlePrice": 10,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
