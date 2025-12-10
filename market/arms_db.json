@@ -333,6 +333,16 @@
       "singlePrice": 20,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "mk2vv89we",
+      "category": "Market",
+      "itemName": "አቼቶ",
+      "measurement": "Count",
+      "amount": 1,
+      "singlePrice": 40,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
