@@ -18,7 +18,7 @@
       "id": "we9fxojoq",
       "category": "Market",
       "itemName": "በቆሎ",
-      "measurement": "",
+      "measurement": "ኪ.ግ",
       "amount": 57,
       "singlePrice": 34,
       "description": "",
@@ -31,26 +31,6 @@
       "measurement": "",
       "amount": 1,
       "singlePrice": 120,
-      "description": "",
-      "date": "2018-04-01"
-    },
-    {
-      "id": "jzcta5d41",
-      "category": "Market",
-      "itemName": "ጥቅል ጎመን",
-      "measurement": "",
-      "amount": 33,
-      "singlePrice": 24,
-      "description": "",
-      "date": "2018-04-01"
-    },
-    {
-      "id": "zydl84uvq",
-      "category": "Market",
-      "itemName": "ቃራያ",
-      "measurement": "",
-      "amount": 5,
-      "singlePrice": 45,
       "description": "",
       "date": "2018-04-01"
     }
