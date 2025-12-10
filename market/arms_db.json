@@ -343,6 +343,16 @@
       "singlePrice": 40,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "zep3aywv1",
+      "category": "Market",
+      "itemName": "የእንጀራ ፔስተል",
+      "measurement": "Count",
+      "amount": 1,
+      "singlePrice": 30,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
