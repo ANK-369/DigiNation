@@ -43,6 +43,16 @@
       "singlePrice": 24,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "zydl84uvq",
+      "category": "Market",
+      "itemName": "ቃራያ",
+      "measurement": "",
+      "amount": 5,
+      "singlePrice": 45,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
