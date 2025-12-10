@@ -403,6 +403,16 @@
       "singlePrice": 140,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "chqr2jqy0",
+      "category": "Market",
+      "itemName": "ደብተር ",
+      "measurement": "Count",
+      "amount": 4,
+      "singlePrice": 55,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
