@@ -1,0 +1,532 @@
+{
+  "manpower": [],
+  "incomeItems": [],
+  "subsidies": [],
+  "transfers": [],
+  "expenses": [
+    {
+      "id": "0a9nz8stm",
+      "category": "Market",
+      "itemName": "ጤፍ",
+      "measurement": "Kg",
+      "amount": 496,
+      "singlePrice": 88.5685,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "we9fxojoq",
+      "category": "Market",
+      "itemName": "በቆሎ",
+      "measurement": "Kg",
+      "amount": 183,
+      "singlePrice": 37.3552,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "jvdopvmhg",
+      "category": "Market",
+      "itemName": "አብሽ",
+      "measurement": "Tasa",
+      "amount": 5,
+      "singlePrice": 116,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "jzcta5d41",
+      "category": "Market",
+      "itemName": "ጥቅል ጎመን",
+      "measurement": "Kg",
+      "amount": 207,
+      "singlePrice": 30.5218,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "zydl84uvq",
+      "category": "Market",
+      "itemName": "ቃራያ",
+      "measurement": "Kg",
+      "amount": 18,
+      "singlePrice": 49.1667,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "y1phcrtuf",
+      "category": "Market",
+      "itemName": "ትማትም",
+      "measurement": "Kg",
+      "amount": 123,
+      "singlePrice": 66.3414,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "l0o6loynz",
+      "category": "Market",
+      "itemName": "ቀይስር",
+      "measurement": "Kg",
+      "amount": 48,
+      "singlePrice": 35.0416,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "zjytjxr6h",
+      "category": "Market",
+      "itemName": "ካሮት ",
+      "measurement": "Kg",
+      "amount": 36,
+      "singlePrice": 38.6945,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "opjhmexox",
+      "category": "Market",
+      "itemName": "ቀይሽንኩርት",
+      "measurement": "Kg",
+      "amount": 174,
+      "singlePrice": 40.9483,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "jn4x0e94t",
+      "category": "Market",
+      "itemName": "ድንች",
+      "measurement": "Kg",
+      "amount": 247,
+      "singlePrice": 34.2341,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "hq163me1f",
+      "category": "Market",
+      "itemName": "ነጪ ሽንኩርት",
+      "measurement": "Kg",
+      "amount": 6,
+      "singlePrice": 173.3333,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "tfhfi91ar",
+      "category": "Market",
+      "itemName": "በርበሬ ",
+      "measurement": "Kg",
+      "amount": 23,
+      "singlePrice": 574.7826,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "gxi5ihbsr",
+      "category": "Market",
+      "itemName": "ምስር ክክ",
+      "measurement": "Kg",
+      "amount": 22,
+      "singlePrice": 209.0909,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "bqsnu39wj",
+      "category": "Market",
+      "itemName": "አተር  ክክ",
+      "measurement": "Kg",
+      "amount": 25.5,
+      "singlePrice": 154.9804,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "fq1eidwnv",
+      "category": "Market",
+      "itemName": "አጀኪስ",
+      "measurement": "Count",
+      "amount": 20,
+      "singlePrice": 10,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "0k58p3j5h",
+      "category": "Market",
+      "itemName": "ሸይ ቅመም",
+      "measurement": "Count",
+      "amount": 6,
+      "singlePrice": 60,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "m7uc7wshj",
+      "category": "Market",
+      "itemName": "አዮድን ጨው",
+      "measurement": "Kg",
+      "amount": 12,
+      "singlePrice": 25,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "v6lzs6dm3",
+      "category": "Market",
+      "itemName": "ማሰሻ ",
+      "measurement": "Kg",
+      "amount": 4,
+      "singlePrice": 190,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "szp1hxv0v",
+      "category": "Market",
+      "itemName": "ድፍን ምስር",
+      "measurement": "Kg",
+      "amount": 25.5,
+      "singlePrice": 203.1373,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "hy7p9gshp",
+      "category": "Market",
+      "itemName": "ቁልፍ",
+      "measurement": "Count",
+      "amount": 1,
+      "singlePrice": 300,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "qtdqc57vw",
+      "category": "Market",
+      "itemName": "ሽሮ ",
+      "measurement": "Kg",
+      "amount": 56,
+      "singlePrice": 239.6429,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "ac0ahbuzj",
+      "category": "Market",
+      "itemName": "ማካሮኒ ",
+      "measurement": "Kg",
+      "amount": 11,
+      "singlePrice": 127.2727,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "rsv58d8ox",
+      "category": "Market",
+      "itemName": "ፓስተ",
+      "measurement": "Count",
+      "amount": 17,
+      "singlePrice": 85,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "ks95d9np8",
+      "category": "Market",
+      "itemName": "ኦሞ",
+      "measurement": "Count",
+      "amount": 3,
+      "singlePrice": 30,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "cceut8abo",
+      "category": "Market",
+      "itemName": "እንቁላል ",
+      "measurement": "Count",
+      "amount": 520,
+      "singlePrice": 10,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "6fvsm3v8w",
+      "category": "Market",
+      "itemName": "ሩዝ",
+      "measurement": "Kg",
+      "amount": 33,
+      "singlePrice": 106.9697,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "bih9eydzu",
+      "category": "Market",
+      "itemName": "ክኖር",
+      "measurement": "Count",
+      "amount": 113,
+      "singlePrice": 5,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "5fasx93ju",
+      "category": "Market",
+      "itemName": "ሸይ ቅጣል",
+      "measurement": "Dozen",
+      "amount": 11,
+      "singlePrice": 70,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "696mfg2qj",
+      "category": "Market",
+      "itemName": "ዝንጅብል ",
+      "measurement": "Kg",
+      "amount": 3,
+      "singlePrice": 130,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "q6i8macwr",
+      "category": "Market",
+      "itemName": "እስፖንጅ",
+      "measurement": "Dozen",
+      "amount": 1,
+      "singlePrice": 130,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "ae5zgnqgw",
+      "category": "Market",
+      "itemName": "እርድ",
+      "measurement": "Kg",
+      "amount": 1,
+      "singlePrice": 80,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "vq2wlvx44",
+      "category": "Market",
+      "itemName": "መደበሪ",
+      "measurement": "Count",
+      "amount": 1,
+      "singlePrice": 50,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "e08x6d6he",
+      "category": "Market",
+      "itemName": "ድንብል",
+      "measurement": "Kg",
+      "amount": 1,
+      "singlePrice": 20,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "mk2vv89we",
+      "category": "Market",
+      "itemName": "አቼቶ",
+      "measurement": "Count",
+      "amount": 2,
+      "singlePrice": 45,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "zep3aywv1",
+      "category": "Market",
+      "itemName": "የእንጀራ ፔስተል",
+      "measurement": "Count",
+      "amount": 1,
+      "singlePrice": 30,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "ip2bfnu6k",
+      "category": "Market",
+      "itemName": "ቃራያ",
+      "measurement": "Kg",
+      "amount": 5,
+      "singlePrice": 50,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "eu1or326f",
+      "category": "Market",
+      "itemName": "ላርጎ",
+      "measurement": "Litre",
+      "amount": 5,
+      "singlePrice": 100,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "us0c9el77",
+      "category": "Market",
+      "itemName": "እቃ ማጠቢያ ሽቦ",
+      "measurement": "Dozen",
+      "amount": 1,
+      "singlePrice": 130,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "0701x81d1",
+      "category": "Market",
+      "itemName": "ስጋ",
+      "measurement": "Medeb",
+      "amount": 1,
+      "singlePrice": 10250,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "tz5y8h56a",
+      "category": "Market",
+      "itemName": "ቤት መወልወያ",
+      "measurement": "Count",
+      "amount": 2,
+      "singlePrice": 140,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "chqr2jqy0",
+      "category": "Market",
+      "itemName": "ደብተር ",
+      "measurement": "Count",
+      "amount": 4,
+      "singlePrice": 55,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "kuzdcv9m3",
+      "category": "Market",
+      "itemName": "ሊጥ ማቡኪያ ሳፋ",
+      "measurement": "Count",
+      "amount": 1,
+      "singlePrice": 550,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "e7iyjgknw",
+      "category": "Market",
+      "itemName": "ጆክ ",
+      "measurement": "Count",
+      "amount": 2,
+      "singlePrice": 70,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "kxu047our",
+      "category": "Market",
+      "itemName": "ጥሬ ጨው ",
+      "measurement": "Kg",
+      "amount": 1,
+      "singlePrice": 35,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "uipdc9pos",
+      "category": "Market",
+      "itemName": "እስክርቢቶ ",
+      "measurement": "Count",
+      "amount": 3,
+      "singlePrice": 25,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "5sq78ruke",
+      "category": "Market",
+      "itemName": "ማንኪያ",
+      "measurement": "Count",
+      "amount": 12,
+      "singlePrice": 15,
+      "description": "",
+      "date": "2018-04-01"
+    }
+  ],
+  "refunds": [],
+  "notes": [],
+  "storeItems": [],
+  "storeOrders": [],
+  "foodProgram": [
+    {
+      "id": "mon",
+      "day": "Monday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "tue",
+      "day": "Tuesday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "wed",
+      "day": "Wednesday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "thu",
+      "day": "Thursday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "fri",
+      "day": "Friday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "sat",
+      "day": "Saturday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    },
+    {
+      "id": "sun",
+      "day": "Sunday",
+      "breakfast": "",
+      "lunch": "",
+      "dinner": ""
+    }
+  ],
+  "programSettings": {
+    "title": "ሳምንታዊ የምግብ ፕሮግራም",
+    "subtitle": "የኢትዮጵያ አየር ኃይል - ሎጅስቲክስ ኮማንድ",
+    "footerLeft": "ያዘጋጀው",
+    "footerRight": "ያጸደቀው"
+  },
+  "foodProgramArchive": [],
+  "mealIngredients": {},
+  "rationHistory": []
+}
