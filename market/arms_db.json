@@ -193,6 +193,16 @@
       "singlePrice": 205,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "hy7p9gshp",
+      "category": "Market",
+      "itemName": "ቁልፍ",
+      "measurement": "Count",
+      "amount": 1,
+      "singlePrice": 300,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
