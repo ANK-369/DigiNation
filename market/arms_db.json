@@ -173,6 +173,16 @@
       "singlePrice": 25,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "v6lzs6dm3",
+      "category": "Market",
+      "itemName": "ማሰሻ ",
+      "measurement": "Kg",
+      "amount": 1,
+      "singlePrice": 190,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
