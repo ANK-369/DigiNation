@@ -303,6 +303,16 @@
       "singlePrice": 130,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "ae5zgnqgw",
+      "category": "Market",
+      "itemName": "እርድ",
+      "measurement": "Kg",
+      "amount": 1,
+      "singlePrice": 80,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
