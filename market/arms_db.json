@@ -253,6 +253,16 @@
       "singlePrice": 10,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "6fvsm3v8w",
+      "category": "Market",
+      "itemName": "ሩዝ",
+      "measurement": "Kg",
+      "amount": 25,
+      "singlePrice": 106,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
