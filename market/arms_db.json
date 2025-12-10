@@ -209,8 +209,8 @@
       "category": "Market",
       "itemName": "ሽሮ ",
       "measurement": "Kg",
-      "amount": 56,
-      "singlePrice": 239.6429,
+      "amount": 50,
+      "singlePrice": 239.6,
       "description": "",
       "date": "2018-04-01"
     },
@@ -417,7 +417,7 @@
     {
       "id": "kuzdcv9m3",
       "category": "Market",
-      "itemName": "ልመብክያ ሰፊ ",
+      "itemName": "ሊጥ ማቡኪያ ሳፋ",
       "measurement": "Count",
       "amount": 1,
       "singlePrice": 550,
@@ -431,16 +431,6 @@
       "measurement": "Count",
       "amount": 2,
       "singlePrice": 70,
-      "description": "",
-      "date": "2018-04-01"
-    },
-    {
-      "id": "kxu047our",
-      "category": "Market",
-      "itemName": "ጥሬ ጨው ",
-      "measurement": "Kg",
-      "amount": 1,
-      "singlePrice": 35,
       "description": "",
       "date": "2018-04-01"
     }
