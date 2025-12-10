@@ -23,6 +23,16 @@
       "singlePrice": 34,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "jvdopvmhg",
+      "category": "Market",
+      "itemName": "አብሽ",
+      "measurement": "",
+      "amount": 1,
+      "singlePrice": 120,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
