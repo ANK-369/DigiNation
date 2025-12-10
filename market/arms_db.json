@@ -313,6 +313,16 @@
       "singlePrice": 80,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "vq2wlvx44",
+      "category": "Market",
+      "itemName": "መደበሪ",
+      "measurement": "Count",
+      "amount": 1,
+      "singlePrice": 50,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
