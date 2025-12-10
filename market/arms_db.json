@@ -48,7 +48,7 @@
       "id": "zydl84uvq",
       "category": "Market",
       "itemName": "ቃራያ",
-      "measurement": "ኪ.ግ",
+      "measurement": "",
       "amount": 5,
       "singlePrice": 45,
       "description": "",
@@ -58,9 +58,19 @@
       "id": "y1phcrtuf",
       "category": "Market",
       "itemName": "ትማትም",
-      "measurement": "ኪ.ግ",
+      "measurement": "",
       "amount": 24,
       "singlePrice": 75,
+      "description": "",
+      "date": "2018-04-01"
+    },
+    {
+      "id": "l0o6loynz",
+      "category": "Market",
+      "itemName": "ቀይስር",
+      "measurement": "Kg",
+      "amount": 10,
+      "singlePrice": 28,
       "description": "",
       "date": "2018-04-01"
     }
