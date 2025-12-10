@@ -423,6 +423,16 @@
       "singlePrice": 550,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "e7iyjgknw",
+      "category": "Market",
+      "itemName": "ጆክ ",
+      "measurement": "Count",
+      "amount": 2,
+      "singlePrice": 70,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
