@@ -323,6 +323,16 @@
       "singlePrice": 50,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "e08x6d6he",
+      "category": "Market",
+      "itemName": "ድንብል",
+      "measurement": "Kg",
+      "amount": 1,
+      "singlePrice": 20,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
