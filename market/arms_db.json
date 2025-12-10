@@ -413,6 +413,16 @@
       "singlePrice": 55,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "kuzdcv9m3",
+      "category": "Market",
+      "itemName": "ልመብክያ ሰፊ ",
+      "measurement": "Count",
+      "amount": 1,
+      "singlePrice": 550,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
