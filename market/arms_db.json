@@ -453,6 +453,16 @@
       "singlePrice": 25,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "5sq78ruke",
+      "category": "Market",
+      "itemName": "ማንኪያ",
+      "measurement": "Count",
+      "amount": 12,
+      "singlePrice": 15,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
