@@ -383,6 +383,16 @@
       "singlePrice": 130,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "0701x81d1",
+      "category": "Market",
+      "itemName": "ስጋ",
+      "measurement": "Medeb",
+      "amount": 1,
+      "singlePrice": 10250,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
