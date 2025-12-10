@@ -123,6 +123,16 @@
       "singlePrice": 580,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "gxi5ihbsr",
+      "category": "Market",
+      "itemName": "ምስር ክክ",
+      "measurement": "Kg",
+      "amount": 6,
+      "singlePrice": 205,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
