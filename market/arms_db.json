@@ -213,6 +213,16 @@
       "singlePrice": 240,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "ac0ahbuzj",
+      "category": "Market",
+      "itemName": "ማካሮኒ ",
+      "measurement": "Kg",
+      "amount": 1,
+      "singlePrice": 140,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
