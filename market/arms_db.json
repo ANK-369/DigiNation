@@ -163,6 +163,16 @@
       "singlePrice": 60,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "m7uc7wshj",
+      "category": "Market",
+      "itemName": "አዮድን ጨው",
+      "measurement": "Kg",
+      "amount": 5,
+      "singlePrice": 25,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
