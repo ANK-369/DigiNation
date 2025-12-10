@@ -263,6 +263,16 @@
       "singlePrice": 106,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "bih9eydzu",
+      "category": "Market",
+      "itemName": "ክኖር",
+      "measurement": "Count",
+      "amount": 60,
+      "singlePrice": 5,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
