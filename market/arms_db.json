@@ -283,6 +283,16 @@
       "singlePrice": 37,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "696mfg2qj",
+      "category": "Market",
+      "itemName": "ዝንጅብል ",
+      "measurement": "Kg",
+      "amount": 1,
+      "singlePrice": 150,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
