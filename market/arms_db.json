@@ -223,6 +223,16 @@
       "singlePrice": 140,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "rsv58d8ox",
+      "category": "Market",
+      "itemName": "ፓስተ",
+      "measurement": "Count",
+      "amount": 5,
+      "singlePrice": 85,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
