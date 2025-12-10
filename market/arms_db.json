@@ -203,6 +203,16 @@
       "singlePrice": 300,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "qtdqc57vw",
+      "category": "Market",
+      "itemName": "ሽሮ ",
+      "measurement": "Kg",
+      "amount": 12,
+      "singlePrice": 240,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
