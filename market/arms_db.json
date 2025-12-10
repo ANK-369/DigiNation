@@ -33,6 +33,16 @@
       "singlePrice": 120,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "jzcta5d41",
+      "category": "Market",
+      "itemName": "ጥቅል ጎመን",
+      "measurement": "",
+      "amount": 33,
+      "singlePrice": 24,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
