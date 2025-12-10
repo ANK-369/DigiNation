@@ -433,6 +433,16 @@
       "singlePrice": 70,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "kxu047our",
+      "category": "Market",
+      "itemName": "ጥሬ ጨው ",
+      "measurement": "Kg",
+      "amount": 1,
+      "singlePrice": 35,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
