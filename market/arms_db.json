@@ -3,7 +3,18 @@
   "incomeItems": [],
   "subsidies": [],
   "transfers": [],
-  "expenses": [],
+  "expenses": [
+    {
+      "id": "0a9nz8stm",
+      "category": "Market",
+      "itemName": "ጤፍ",
+      "measurement": "Kg",
+      "amount": 142,
+      "singlePrice": 85,
+      "description": "",
+      "date": "2018-04-01"
+    }
+  ],
   "refunds": [],
   "notes": [],
   "storeItems": [],
