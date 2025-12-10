@@ -353,6 +353,16 @@
       "singlePrice": 30,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "ip2bfnu6k",
+      "category": "Market",
+      "itemName": "ቃራያ",
+      "measurement": "Kg",
+      "amount": 5,
+      "singlePrice": 50,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
