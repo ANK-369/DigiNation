@@ -304,6 +304,16 @@
       ]
     }
   ],
-  "mealIngredients": {},
+  "mealIngredients": {
+    "Wednesday": [
+      {
+        "id": "ljfv6likb",
+        "itemName": "ሽንኩርት",
+        "totalAmount": 8,
+        "baseManpower": 15,
+        "unit": "Kg"
+      }
+    ]
+  },
   "rationHistory": []
 }
