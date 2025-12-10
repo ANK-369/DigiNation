@@ -363,6 +363,16 @@
       "singlePrice": 50,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "eu1or326f",
+      "category": "Market",
+      "itemName": "ላርጎ",
+      "measurement": "Litre",
+      "amount": 5,
+      "singlePrice": 100,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
