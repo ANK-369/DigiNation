@@ -233,6 +233,16 @@
       "singlePrice": 85,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "ks95d9np8",
+      "category": "Market",
+      "itemName": "ኦሞ",
+      "measurement": "Count",
+      "amount": 3,
+      "singlePrice": 30,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
