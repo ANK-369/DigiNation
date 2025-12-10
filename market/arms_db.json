@@ -143,6 +143,16 @@
       "singlePrice": 155,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "fq1eidwnv",
+      "category": "Market",
+      "itemName": "አጀኪስ",
+      "measurement": "Count",
+      "amount": 10,
+      "singlePrice": 10,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
