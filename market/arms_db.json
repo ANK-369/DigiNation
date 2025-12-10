@@ -393,6 +393,16 @@
       "singlePrice": 10250,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "tz5y8h56a",
+      "category": "Market",
+      "itemName": "ቤት መወልወያ",
+      "measurement": "Count",
+      "amount": 2,
+      "singlePrice": 140,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
