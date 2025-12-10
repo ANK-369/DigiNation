@@ -293,6 +293,16 @@
       "singlePrice": 150,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "q6i8macwr",
+      "category": "Market",
+      "itemName": "እስፖንጅ",
+      "measurement": "Dozen",
+      "amount": 1,
+      "singlePrice": 130,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
