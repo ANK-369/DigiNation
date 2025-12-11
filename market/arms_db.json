@@ -110,7 +110,7 @@
       "itemName": "ነጪ ሽንኩርት",
       "measurement": "Kg",
       "amount": 5,
-      "singlePrice": 202.00,
+      "singlePrice": 202,
       "description": "",
       "date": "2018-04-01"
     },
@@ -463,6 +463,16 @@
       "singlePrice": 15,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "ffidmjrfa",
+      "category": "Market",
+      "itemName": "ላርጎ",
+      "measurement": "Litre",
+      "amount": 6,
+      "singlePrice": 130,
+      "description": "",
+      "date": "2018-04-02"
     }
   ],
   "refunds": [],
