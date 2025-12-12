@@ -478,6 +478,14 @@
       "amount": 1500,
       "description": "",
       "date": "2018-04-03"
+    },
+    {
+      "id": "bfw5o32xv",
+      "category": "Other",
+      "reason": "ማስበጠሪያ",
+      "amount": 210,
+      "description": "",
+      "date": "2018-04-03"
     }
   ],
   "refunds": [],
