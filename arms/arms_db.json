@@ -434,6 +434,16 @@
       "singlePrice": 110,
       "description": "",
       "date": "2018-04-03"
+    },
+    {
+      "id": "g6iy7rq1o",
+      "category": "Market",
+      "itemName": "ማዳበሪያ",
+      "measurement": "Count",
+      "amount": 3,
+      "singlePrice": 50,
+      "description": "",
+      "date": "2018-04-03"
     }
   ],
   "refunds": [],
