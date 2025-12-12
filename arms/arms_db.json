@@ -234,6 +234,16 @@
       "singlePrice": 28,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "bru8juybr",
+      "category": "Market",
+      "itemName": "ካሮት",
+      "measurement": "Kg",
+      "amount": 12,
+      "singlePrice": 40,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
