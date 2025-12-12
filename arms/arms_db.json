@@ -462,6 +462,14 @@
       "amount": 50,
       "description": "",
       "date": "2018-04-03"
+    },
+    {
+      "id": "9ac0v79bs",
+      "category": "Other",
+      "reason": "ሚዛን",
+      "amount": 30,
+      "description": "",
+      "date": "2018-04-03"
     }
   ],
   "refunds": [],
