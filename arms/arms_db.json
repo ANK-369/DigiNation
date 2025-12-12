@@ -284,6 +284,16 @@
       "singlePrice": 400,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "bkl1bjb4x",
+      "category": "Market",
+      "itemName": "ምስር ክክ",
+      "measurement": "Kg",
+      "amount": 15,
+      "singlePrice": 218,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
