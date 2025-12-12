@@ -384,6 +384,16 @@
       "singlePrice": 240,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "acckwpm3b",
+      "category": "Market",
+      "itemName": "ላርጎ",
+      "measurement": "Litre",
+      "amount": 5,
+      "singlePrice": 100,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
