@@ -454,6 +454,14 @@
       "singlePrice": 240,
       "description": "",
       "date": "2018-04-02"
+    },
+    {
+      "id": "5jbudwxte",
+      "category": "Other",
+      "reason": "ተሸካሚ",
+      "amount": 50,
+      "description": "",
+      "date": "2018-04-03"
     }
   ],
   "refunds": [],
