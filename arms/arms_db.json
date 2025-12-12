@@ -414,6 +414,16 @@
       "singlePrice": 90,
       "description": "",
       "date": "2018-04-03"
+    },
+    {
+      "id": "e18wtz3lt",
+      "category": "Market",
+      "itemName": "በቆሎ",
+      "measurement": "Kg",
+      "amount": 71,
+      "singlePrice": 39,
+      "description": "",
+      "date": "2018-04-03"
     }
   ],
   "refunds": [],
