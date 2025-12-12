@@ -404,6 +404,16 @@
       "singlePrice": 85,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "va7nvvgzd",
+      "category": "Market",
+      "itemName": "ጤፍ",
+      "measurement": "Kg",
+      "amount": 294,
+      "singlePrice": 90,
+      "description": "",
+      "date": "2018-04-03"
     }
   ],
   "refunds": [],
