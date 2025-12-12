@@ -214,6 +214,16 @@
       "singlePrice": 30,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "qmzlth1t3",
+      "category": "Market",
+      "itemName": "ጥቅል ጎመን",
+      "measurement": "Kg",
+      "amount": 27,
+      "singlePrice": 22,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
