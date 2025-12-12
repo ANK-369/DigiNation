@@ -324,6 +324,16 @@
       "singlePrice": 10,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "v2yxvsrbz",
+      "category": "Market",
+      "itemName": "አቼቶ",
+      "measurement": "Litre",
+      "amount": 0.5,
+      "singlePrice": 100,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
