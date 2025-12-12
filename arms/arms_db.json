@@ -470,6 +470,14 @@
       "amount": 30,
       "description": "",
       "date": "2018-04-03"
+    },
+    {
+      "id": "wanrzt125",
+      "category": "Other",
+      "reason": "ማስፈጫ",
+      "amount": 1500,
+      "description": "",
+      "date": "2018-04-03"
     }
   ],
   "refunds": [],
