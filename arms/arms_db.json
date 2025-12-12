@@ -364,6 +364,16 @@
       "singlePrice": 106,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "a4grqix46",
+      "category": "Market",
+      "itemName": "መኮሮኒ",
+      "measurement": "Kg",
+      "amount": 5,
+      "singlePrice": 126,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
