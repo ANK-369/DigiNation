@@ -304,6 +304,16 @@
       "singlePrice": 200,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "yc04tp1jq",
+      "category": "Market",
+      "itemName": "አተር ክክ",
+      "measurement": "Kg",
+      "amount": 24.5,
+      "singlePrice": 154,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
