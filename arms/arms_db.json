@@ -204,6 +204,16 @@
       "singlePrice": 33.33,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "t262pot9g",
+      "category": "Market",
+      "itemName": "ቲማቲም",
+      "measurement": "Kg",
+      "amount": 16,
+      "singlePrice": 30,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
