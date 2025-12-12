@@ -244,6 +244,16 @@
       "singlePrice": 40,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "3ju5szbfx",
+      "category": "Market",
+      "itemName": "ቃሪያ",
+      "measurement": "Kg",
+      "amount": 2,
+      "singlePrice": 50,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
