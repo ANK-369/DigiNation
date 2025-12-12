@@ -184,7 +184,18 @@
   "incomeItems": [],
   "subsidies": [],
   "transfers": [],
-  "expenses": [],
+  "expenses": [
+    {
+      "id": "u3heybjyh",
+      "category": "Market",
+      "itemName": "ቀይ ሽንኩርት",
+      "measurement": "Kg",
+      "amount": 21,
+      "singlePrice": 30,
+      "description": "",
+      "date": "2018-04-01"
+    }
+  ],
   "refunds": [],
   "notes": [],
   "storeItems": [],
