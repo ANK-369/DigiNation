@@ -334,6 +334,16 @@
       "singlePrice": 100,
       "description": "",
       "date": "2018-04-01"
+    },
+    {
+      "id": "y08ir97ue",
+      "category": "Market",
+      "itemName": "በርበሬ",
+      "measurement": "Kg",
+      "amount": 4,
+      "singlePrice": 550,
+      "description": "",
+      "date": "2018-04-01"
     }
   ],
   "refunds": [],
