@@ -424,6 +424,16 @@
       "singlePrice": 39,
       "description": "",
       "date": "2018-04-03"
+    },
+    {
+      "id": "jjf6gd5ah",
+      "category": "Market",
+      "itemName": "አብሽ",
+      "measurement": "Tasa",
+      "amount": 3,
+      "singlePrice": 110,
+      "description": "",
+      "date": "2018-04-03"
     }
   ],
   "refunds": [],
