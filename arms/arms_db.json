@@ -491,7 +491,18 @@
   "refunds": [],
   "notes": [],
   "storeItems": [],
-  "storeOrders": [],
+  "storeOrders": [
+    {
+      "id": "fejn9lji7",
+      "status": "Pending",
+      "itemName": "ሽንኩርት",
+      "buyerName": "ኦብሴ ደገፉ",
+      "amount": 50,
+      "measurement": "Kg",
+      "description": "የዋጋ ቅናሽ ከተገኘ 60 ኪሎ ብገዛ አሪፍ ነው።",
+      "date": "2018-04-01"
+    }
+  ],
   "foodProgram": [
     {
       "id": "mon",
